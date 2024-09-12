@@ -33,6 +33,11 @@ function validateForm() {
     } else {
         emailError.textContent = "";
     }
-
+    // Se o formulário for válido, exibe um alert de sucesso
+    if (isValid) {
+        alert("Formulário enviado com sucesso!");
+    } else {
+        alert("Por favor, corrija os erros antes de enviar.");
+    }
     return isValid;
 }
