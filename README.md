@@ -1,4 +1,4 @@
-Projeto de Formulário de Contato com Validação de Regex
+# Projeto de Formulário de Contato com Validação de Regex
 
 Este projeto consiste em um formulário de contato que valida as entradas do usuário usando expressões regulares (Regex). O formulário inclui campos para o nome, email e telefone do usuário.
 
